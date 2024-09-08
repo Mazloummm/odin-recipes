@@ -1,4 +1,5 @@
-.Yone {
-    position: absolute;
-    right: 0;  /* Moves the image to the right edge of its containing element */
+body {
+    background-image: url('images/pexels-jplenio-1103970.jpg');
+    background-size: cover;
+    background-position: center;
 }
